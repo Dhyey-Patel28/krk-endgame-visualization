@@ -18,7 +18,7 @@ from viz_template import build_page
 
 
 BASE_DIR = Path(__file__).resolve().parent
-OUTPUT_DIR = BASE_DIR / "public"
+OUTPUT_DIR = BASE_DIR
 OUTPUT_DIR.mkdir(exist_ok=True)
 OUTPUT_HTML = OUTPUT_DIR / "index.html"
 
