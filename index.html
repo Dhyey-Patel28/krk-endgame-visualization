@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Interactive Visualization Showcase</title>
+  <title>Visual Data Mining Dashboard Showcase</title>
   <style>
     :root {
       --bg: #1f232b;
@@ -13,6 +13,9 @@
       --accent: #7cb34b;
       --accent-2: #d19a66;
       --border: rgba(255,255,255,0.08);
+      --pill-bg: rgba(255,255,255,0.04);
+      --pill-border: rgba(255,255,255,0.10);
+      --link: #9fd36a;
     }
 
     * { box-sizing: border-box; }
@@ -32,8 +35,8 @@
 
     .hero {
       text-align: center;
-      max-width: 54rem;
-      margin: 0 auto 2.5rem auto;
+      max-width: 60rem;
+      margin: 0 auto 2rem auto;
     }
 
     .hero h1 {
@@ -47,7 +50,7 @@
       margin: 0 auto;
       color: var(--muted);
       line-height: 1.7rem;
-      max-width: 46rem;
+      max-width: 52rem;
     }
 
     .grid {
@@ -83,10 +86,48 @@
       color: white;
     }
 
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin: 0 0 0.9rem 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .meta li {
+      border: 1px solid var(--pill-border);
+      background: var(--pill-bg);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 0.38rem 0.72rem;
+      font-size: 0.82rem;
+      line-height: 1.1;
+      white-space: nowrap;
+    }
+
     .card p {
       margin: 0 0 1rem 0;
       color: var(--muted);
       line-height: 1.6rem;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.85rem;
+      margin: 0 0 1rem 0;
+    }
+
+    .links a {
+      color: var(--link);
+      text-decoration: none;
+      font-size: 0.92rem;
+      font-weight: 500;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
     }
 
     .button {
@@ -119,41 +160,80 @@
 <body>
   <main class="page">
     <header class="hero">
-      <h1>Interactive Visualization Showcase</h1>
+      <h1>Visual Data Mining Dashboard Showcase</h1>
       <p>
-        Explore three interactive dashboards: a chess endgame visualization for KRK,
-        a Zoo dataset dashboard using trait heatmaps and animal glyphs, and a Census-Income
-        dashboard focused on weighted pathways into the $50K income split.
+        Explore three dashboards built to compare visualization effectiveness across very different datasets:
+        categorical Zoo data, rule-based KRK chess endgames, and mixed Census-Income data.
       </p>
     </header>
 
     <section class="grid">
       <article class="card">
-        <div class="tag">Animal Traits</div>
+        <div class="tag">Zoo</div>
         <h2>Zoo Visualization Dashboard</h2>
+
+        <ul class="meta">
+          <li>101 instances</li>
+          <li>17 attributes</li>
+          <li>Categorical</li>
+          <li>Classification</li>
+        </ul>
+
         <p>
-          A clean visual exploration of animal traits using a PCA preview, heatmap, glyph wall,
-          and similarity constellation.
+          Trait-focused views for exploring animal groups, feature combinations, and interpretable class structure.
         </p>
+
+        <div class="links">
+          <a href="https://archive.ics.uci.edu/dataset/111/zoo" target="_blank" rel="noopener noreferrer">UCI Dataset</a>
+          <a href="/zoo/">Open Dashboard</a>
+        </div>
+
         <a class="button" href="/zoo/">Open Zoo Dashboard</a>
       </article>
 
       <article class="card">
-        <div class="tag">Chess Endgame</div>
+        <div class="tag">KRK Chess</div>
         <h2>KRK Visualization Dashboard</h2>
+
+        <ul class="meta">
+          <li>28,056 instances</li>
+          <li>6 attributes</li>
+          <li>Rule-based state data</li>
+          <li>Categorical + integer</li>
+        </ul>
+
         <p>
-          Board-native endgame storytelling with an endgame tree, move heatmaps, and piece flow views.
+          Positional and engine-enriched views for exploring hidden structure in King-Rook vs. King endgame states.
         </p>
+
+        <div class="links">
+          <a href="https://archive.ics.uci.edu/dataset/23/chess%2Bking%2Brook%2Bvs%2Bking" target="_blank" rel="noopener noreferrer">UCI Dataset</a>
+          <a href="/krk/">Open Dashboard</a>
+        </div>
+
         <a class="button" href="/krk/">Open KRK Dashboard</a>
       </article>
 
       <article class="card">
-        <div class="tag">Census-Income (KDD)</div>
+        <div class="tag">Census-Income</div>
         <h2>Pathways to $50K</h2>
+
+        <ul class="meta">
+          <li>48,842 instances</li>
+          <li>14 attributes</li>
+          <li>Categorical + numerical</li>
+          <li>Classification</li>
+        </ul>
+
         <p>
-          A weighted view of how education, work status, and marital status flow into the
-          under-$50K and over-$50K income groups.
+          A mixed-data dashboard showing how demographic and work-related factors connect to income groups.
         </p>
+
+        <div class="links">
+          <a href="https://archive.ics.uci.edu/dataset/2/adult" target="_blank" rel="noopener noreferrer">UCI Dataset</a>
+          <a href="/census/">Open Dashboard</a>
+        </div>
+
         <a class="button" href="/census/">Open Census Dashboard</a>
       </article>
     </section>
