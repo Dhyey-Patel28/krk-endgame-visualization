@@ -1,5 +1,4 @@
 from pathlib import Path
-import webbrowser
 
 from viz_data import (
     load_engine_df,
@@ -18,7 +17,7 @@ from viz_template import build_page
 
 
 BASE_DIR = Path(__file__).resolve().parent
-OUTPUT_DIR = BASE_DIR
+OUTPUT_DIR = BASE_DIR / "krk"
 OUTPUT_DIR.mkdir(exist_ok=True)
 OUTPUT_HTML = OUTPUT_DIR / "index.html"
 
@@ -74,7 +73,6 @@ def main():
 
     OUTPUT_HTML.write_text(html, encoding="utf-8")
     print(f"Saved: {OUTPUT_HTML}")
-    webbrowser.open(OUTPUT_HTML.resolve().as_uri())
 
 
 if __name__ == "__main__":

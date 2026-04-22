@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Zoo Visualization Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <h1>Zoo Visualization Dashboard</h1>
+      <p>
+        A clean visual exploration of the Zoo dataset using a weak baseline preview,
+        a class-by-trait heatmap, and an animal fingerprint wall.
+      </p>
+    </header>
+
+    <section class="section" id="pca-section">
+      <div class="section-header">
+        <h2>PCA 2D Preview</h2>
+        <p>
+          A supporting baseline only. It is useful mainly because it shows how much overlap remains
+          when the dataset is flattened into a generic 2D projection.
+        </p>
+      </div>
+      <div id="pca-controls" class="toolbar"></div>
+      <div id="pca-chart" class="chart"></div>
+      <div id="pca-caption" class="caption"></div>
+    </section>
+
+    <section class="section" id="heatmap-section">
+      <div class="section-header">
+        <h2>Class by Trait Heatmap</h2>
+        <p>
+          Each row is an animal class. Each column is a trait. The cell value shows the share of
+          animals in that class expressing that trait.
+        </p>
+      </div>
+      <div id="heatmap-chart" class="chart"></div>
+      <div id="heatmap-caption" class="caption"></div>
+    </section>
+
+    <section class="section" id="fingerprint-section">
+      <div class="section-header">
+        <h2>Animal Glyph Wall</h2>
+        <p>
+          A face-plot style view using animal-inspired glyphs. Each animal is drawn with the same base face,
+          while traits change ears, crest, fins, whiskers, teeth, fangs, collar, and other visual parts.
+        </p>
+      </div>
+      <div id="fingerprint-controls" class="toolbar"></div>
+      <div id="fingerprint-grid" class="fingerprint-grid"></div>
+    </section>
+
+    <section class="section" id="constellation-section">
+      <div class="section-header">
+        <h2>Zoo Similarity Constellation</h2>
+        <p>
+          A similarity galaxy where animals connect to their closest trait-neighbors.
+          Dense neighborhoods reveal natural animal families, while unusual animals act as bridges.
+        </p>
+      </div>
+      <div id="constellation-controls" class="toolbar"></div>
+      <div class="constellation-helper">
+        Hover to preview a neighborhood, click a node to lock it, and click empty space to release it.
+      </div>
+      <div id="constellation-chart" class="chart"></div>
+      <div id="constellation-caption" class="caption"></div>
+      <div id="constellation-feature" class="constellation-feature empty">
+        Hover over an animal to inspect it. Click a node to lock the selection.
+      </div>
+    </section>
+  </main>
+
+  <div id="tooltip" class="tooltip"></div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,188 @@
+education_group,work_status_group,marital_group,income_bucket,weight
+Less than high school,Not in labor force,Never married,<= $50K,148696971.29
+High school,Not in labor force,"Married, spouse present",<= $50K,48794577.78
+Less than high school,Not in labor force,"Married, spouse present",<= $50K,26925194.39
+Some college,Not in labor force,"Married, spouse present",<= $50K,22727815.68
+High school,Full-time,"Married, spouse present",<= $50K,19416407.87
+High school,Not in labor force,Never married,<= $50K,16173197.58
+Bachelor,Not in labor force,"Married, spouse present",<= $50K,16029351.55
+High school,Not in labor force,Divorced / widowed,<= $50K,15454404.05
+Some college,Not in labor force,Never married,<= $50K,14812757.51
+Less than high school,Not in labor force,Divorced / widowed,<= $50K,14723312.79
+Some college,Full-time,"Married, spouse present",<= $50K,10631122.23
+Associate,Not in labor force,"Married, spouse present",<= $50K,8676144.16
+Bachelor,Full-time,"Married, spouse present",<= $50K,8331092.58
+High school,Full-time,Never married,<= $50K,7861274.19
+Some college,Not in labor force,Divorced / widowed,<= $50K,7001899.22
+Some college,Full-time,Never married,<= $50K,6540837.55
+Graduate / professional,Not in labor force,"Married, spouse present",<= $50K,6427790.61
+Bachelor,Not in labor force,Never married,<= $50K,6231316.14
+Less than high school,Full-time,"Married, spouse present",<= $50K,5998206.04
+Less than high school,Full-time,Never married,<= $50K,5718672.13
+Associate,Full-time,"Married, spouse present",<= $50K,4905732.92
+High school,Full-time,Divorced / widowed,<= $50K,4637033.65
+Bachelor,Full-time,Never married,<= $50K,4358536.52
+Bachelor,Not in labor force,"Married, spouse present",> $50K,4265864.06
+Graduate / professional,Not in labor force,"Married, spouse present",> $50K,3888114.51
+Bachelor,Full-time,"Married, spouse present",> $50K,3753764.95
+Graduate / professional,Full-time,"Married, spouse present",> $50K,3437346.25
+Graduate / professional,Full-time,"Married, spouse present",<= $50K,3337278.11
+Less than high school,Not in labor force,Married / separated,<= $50K,3052989.67
+Bachelor,Not in labor force,Divorced / widowed,<= $50K,3029516.25
+High school,Not in labor force,Married / separated,<= $50K,3003986.43
+Associate,Not in labor force,Never married,<= $50K,2749220.18
+Some college,Full-time,Divorced / widowed,<= $50K,2574643.09
+High school,Part-time,"Married, spouse present",<= $50K,2517089.64
+Associate,Not in labor force,Divorced / widowed,<= $50K,2284330.97
+High school,Not in labor force,"Married, spouse present",> $50K,1908953.36
+Some college,Not in labor force,"Married, spouse present",> $50K,1869817.83
+Graduate / professional,Not in labor force,Never married,<= $50K,1679306.79
+High school,Full-time,"Married, spouse present",> $50K,1633842.86
+Associate,Full-time,Never married,<= $50K,1616010.09
+Less than high school,Unemployed,Never married,<= $50K,1585874.02
+Some college,Full-time,"Married, spouse present",> $50K,1527653.56
+Less than high school,Full-time,Divorced / widowed,<= $50K,1477952.2
+Some college,Not in labor force,Married / separated,<= $50K,1418465.52
+Some college,Part-time,"Married, spouse present",<= $50K,1307251.01
+Graduate / professional,Not in labor force,Divorced / widowed,<= $50K,1292290.08
+Bachelor,Full-time,Divorced / widowed,<= $50K,1217042.85
+High school,Unemployed,Never married,<= $50K,1177389.12
+High school,Full-time,Married / separated,<= $50K,1173528.55
+High school,Unemployed,"Married, spouse present",<= $50K,1134100.35
+Graduate / professional,Full-time,Never married,<= $50K,1127376.57
+Bachelor,Part-time,"Married, spouse present",<= $50K,1025459.04
+Associate,Full-time,Divorced / widowed,<= $50K,1008388.47
+Less than high school,Part-time,"Married, spouse present",<= $50K,942670.02
+High school,Part-time,Never married,<= $50K,930119.68
+Some college,Part-time,Never married,<= $50K,850428.74
+Less than high school,Full-time,Married / separated,<= $50K,795463.51
+Associate,Full-time,"Married, spouse present",> $50K,787730.46
+Associate,Not in labor force,"Married, spouse present",> $50K,769523.73
+Some college,Full-time,Married / separated,<= $50K,697707.58
+Some college,Unemployed,Never married,<= $50K,670414.77
+Less than high school,Unemployed,"Married, spouse present",<= $50K,654335.95
+Some college,Unemployed,"Married, spouse present",<= $50K,649918.81
+Less than high school,Part-time,Never married,<= $50K,600987.77
+High school,Part-time,Divorced / widowed,<= $50K,599988.37
+Associate,Part-time,"Married, spouse present",<= $50K,574304.69
+Bachelor,Not in labor force,Divorced / widowed,> $50K,555120.04
+Bachelor,Not in labor force,Never married,> $50K,553474.72
+Bachelor,Not in labor force,Married / separated,<= $50K,547534.5
+Bachelor,Full-time,Never married,> $50K,532773.9
+Graduate / professional,Not in labor force,Divorced / widowed,> $50K,503796.35
+Graduate / professional,Full-time,Divorced / widowed,<= $50K,490397.8
+Bachelor,Part-time,Never married,<= $50K,476120.98
+Graduate / professional,Not in labor force,Never married,> $50K,470661.44
+Graduate / professional,Part-time,"Married, spouse present",<= $50K,441989.79
+Associate,Not in labor force,Married / separated,<= $50K,437214.51
+Bachelor,Full-time,Divorced / widowed,> $50K,426512.6
+High school,Not in labor force,Divorced / widowed,> $50K,426158.57
+Graduate / professional,Full-time,Never married,> $50K,408294.71
+Some college,Part-time,Divorced / widowed,<= $50K,398904.0
+Bachelor,Part-time,"Married, spouse present",> $50K,389131.74
+Graduate / professional,Full-time,Divorced / widowed,> $50K,382717.96
+Graduate / professional,Part-time,"Married, spouse present",> $50K,354263.25
+Some college,Not in labor force,Divorced / widowed,> $50K,342897.82
+Bachelor,Unemployed,"Married, spouse present",<= $50K,331455.22
+High school,Unemployed,Divorced / widowed,<= $50K,330980.66
+Bachelor,Full-time,Married / separated,<= $50K,296691.62
+Less than high school,Not in labor force,"Married, spouse present",> $50K,282451.43
+Less than high school,Unemployed,Divorced / widowed,<= $50K,256479.37
+High school,Full-time,Divorced / widowed,> $50K,251007.59
+Some college,Unemployed,Divorced / widowed,<= $50K,248878.61
+Less than high school,Part-time,Divorced / widowed,<= $50K,248787.7
+Some college,Full-time,Divorced / widowed,> $50K,244085.6
+Less than high school,Full-time,"Married, spouse present",> $50K,243187.61
+Associate,Part-time,Never married,<= $50K,234337.85
+Associate,Full-time,Married / separated,<= $50K,224992.89
+Associate,Unemployed,"Married, spouse present",<= $50K,221857.28
+Bachelor,Unemployed,Never married,<= $50K,214646.41
+Some college,Full-time,Never married,> $50K,204448.97
+High school,Part-time,Married / separated,<= $50K,202969.04
+Some college,Not in labor force,Never married,> $50K,199582.32
+High school,Part-time,"Married, spouse present",> $50K,198539.25
+Bachelor,Part-time,Divorced / widowed,<= $50K,188680.47
+High school,Unemployed,Married / separated,<= $50K,171213.09
+Some college,Part-time,"Married, spouse present",> $50K,164274.54
+Graduate / professional,Not in labor force,Married / separated,<= $50K,164086.11
+Less than high school,Unemployed,Married / separated,<= $50K,162835.49
+Associate,Part-time,Divorced / widowed,<= $50K,157271.54
+High school,Full-time,Never married,> $50K,149313.75
+Graduate / professional,Part-time,Never married,<= $50K,148538.03
+High school,Not in labor force,Never married,> $50K,144434.76
+Associate,Not in labor force,Divorced / widowed,> $50K,142491.84
+Graduate / professional,Unemployed,"Married, spouse present",<= $50K,137954.6
+Graduate / professional,Full-time,Married / separated,<= $50K,130519.18
+Less than high school,Part-time,Married / separated,<= $50K,124694.68
+Associate,Unemployed,Never married,<= $50K,117619.57
+Graduate / professional,Not in labor force,Married / separated,> $50K,113828.88
+Associate,Full-time,Divorced / widowed,> $50K,109556.29
+Associate,Part-time,"Married, spouse present",> $50K,99483.49
+Bachelor,Not in labor force,Married / separated,> $50K,91739.6
+Bachelor,Unemployed,Divorced / widowed,<= $50K,90853.03
+Some college,Part-time,Married / separated,<= $50K,90088.62
+Associate,Not in labor force,Never married,> $50K,84075.53
+Less than high school,Not in labor force,Divorced / widowed,> $50K,82136.88
+Bachelor,Full-time,Married / separated,> $50K,80684.45
+Some college,Unemployed,Married / separated,<= $50K,77841.12
+Associate,Unemployed,Divorced / widowed,<= $50K,77452.37
+Graduate / professional,Unemployed,Never married,<= $50K,73301.98
+Graduate / professional,Part-time,Divorced / widowed,<= $50K,62094.23
+Associate,Full-time,Never married,> $50K,60809.57
+Some college,Not in labor force,Married / separated,> $50K,59785.17
+Less than high school,Not in labor force,Never married,> $50K,56204.58
+High school,Full-time,Married / separated,> $50K,56051.33
+High school,Not in labor force,Married / separated,> $50K,55555.17
+Less than high school,Full-time,Divorced / widowed,> $50K,52079.48
+Bachelor,Unemployed,"Married, spouse present",> $50K,51324.56
+Graduate / professional,Full-time,Married / separated,> $50K,50366.37
+Some college,Full-time,Married / separated,> $50K,49513.12
+Graduate / professional,Unemployed,"Married, spouse present",> $50K,47587.77
+Graduate / professional,Part-time,Never married,> $50K,47223.12
+Bachelor,Part-time,Never married,> $50K,46017.62
+Less than high school,Part-time,"Married, spouse present",> $50K,41753.99
+High school,Unemployed,"Married, spouse present",> $50K,41268.17
+Graduate / professional,Part-time,Divorced / widowed,> $50K,39811.95
+Some college,Part-time,Divorced / widowed,> $50K,37299.38
+Associate,Full-time,Married / separated,> $50K,36068.97
+Bachelor,Part-time,Married / separated,<= $50K,30679.76
+Associate,Part-time,Married / separated,<= $50K,29182.97
+High school,Part-time,Never married,> $50K,27775.74
+High school,Part-time,Divorced / widowed,> $50K,24169.16
+Graduate / professional,Unemployed,Divorced / widowed,<= $50K,23555.73
+Bachelor,Part-time,Divorced / widowed,> $50K,21836.92
+Bachelor,Unemployed,Married / separated,<= $50K,20825.45
+Associate,Not in labor force,Married / separated,> $50K,20289.51
+Less than high school,Full-time,Never married,> $50K,18152.66
+Some college,Unemployed,"Married, spouse present",> $50K,17258.68
+Less than high school,Unemployed,"Married, spouse present",> $50K,16799.26
+Bachelor,Part-time,Married / separated,> $50K,16739.02
+High school,Unemployed,Never married,> $50K,15133.42
+Associate,Unemployed,Married / separated,<= $50K,14430.99
+Less than high school,Part-time,Divorced / widowed,> $50K,14057.46
+Some college,Unemployed,Never married,> $50K,13504.33
+Graduate / professional,Part-time,Married / separated,<= $50K,12493.55
+High school,Unemployed,Divorced / widowed,> $50K,11134.8
+Bachelor,Unemployed,Never married,> $50K,10663.54
+Bachelor,Unemployed,Divorced / widowed,> $50K,10003.12
+Some college,Part-time,Never married,> $50K,9656.15
+Associate,Part-time,Divorced / widowed,> $50K,9534.56
+Less than high school,Part-time,Never married,> $50K,9037.95
+Graduate / professional,Unemployed,Divorced / widowed,> $50K,7764.26
+High school,Part-time,Married / separated,> $50K,7640.04
+Associate,Unemployed,"Married, spouse present",> $50K,7433.46
+Less than high school,Full-time,Married / separated,> $50K,5709.37
+Graduate / professional,Unemployed,Never married,> $50K,5646.15
+Less than high school,Not in labor force,Married / separated,> $50K,5636.33
+Associate,Part-time,Never married,> $50K,5367.14
+Less than high school,Part-time,Married / separated,> $50K,5062.68
+Some college,Part-time,Married / separated,> $50K,4156.84
+Graduate / professional,Part-time,Married / separated,> $50K,3888.21
+Graduate / professional,Unemployed,Married / separated,<= $50K,3467.66
+Less than high school,Unemployed,Divorced / widowed,> $50K,3425.26
+Associate,Unemployed,Never married,> $50K,3371.85
+Associate,Unemployed,Divorced / widowed,> $50K,2127.32
+Associate,Part-time,Married / separated,> $50K,2015.2
+Bachelor,Unemployed,Married / separated,> $50K,1988.01
+Some college,Unemployed,Divorced / widowed,> $50K,1932.5
+Some college,Unemployed,Married / separated,> $50K,1400.64

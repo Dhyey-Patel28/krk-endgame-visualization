@@ -1,0 +1,342 @@
+{
+  "nodes": [
+    {
+      "id": "education_group::Less than high school",
+      "name": "Less than high school",
+      "stage_key": "education_group",
+      "stage_label": "Education"
+    },
+    {
+      "id": "work_status_group::Not in labor force",
+      "name": "Not in labor force",
+      "stage_key": "work_status_group",
+      "stage_label": "Work status"
+    },
+    {
+      "id": "marital_group::Never married",
+      "name": "Never married",
+      "stage_key": "marital_group",
+      "stage_label": "Marital status"
+    },
+    {
+      "id": "income_bucket::<= $50K",
+      "name": "<= $50K",
+      "stage_key": "income_bucket",
+      "stage_label": "Income"
+    },
+    {
+      "id": "education_group::High school",
+      "name": "High school",
+      "stage_key": "education_group",
+      "stage_label": "Education"
+    },
+    {
+      "id": "marital_group::Married, spouse present",
+      "name": "Married, spouse present",
+      "stage_key": "marital_group",
+      "stage_label": "Marital status"
+    },
+    {
+      "id": "education_group::Some college",
+      "name": "Some college",
+      "stage_key": "education_group",
+      "stage_label": "Education"
+    },
+    {
+      "id": "work_status_group::Full-time",
+      "name": "Full-time",
+      "stage_key": "work_status_group",
+      "stage_label": "Work status"
+    },
+    {
+      "id": "education_group::Bachelor",
+      "name": "Bachelor",
+      "stage_key": "education_group",
+      "stage_label": "Education"
+    },
+    {
+      "id": "marital_group::Divorced / widowed",
+      "name": "Divorced / widowed",
+      "stage_key": "marital_group",
+      "stage_label": "Marital status"
+    },
+    {
+      "id": "education_group::Associate",
+      "name": "Associate",
+      "stage_key": "education_group",
+      "stage_label": "Education"
+    },
+    {
+      "id": "education_group::Graduate / professional",
+      "name": "Graduate / professional",
+      "stage_key": "education_group",
+      "stage_label": "Education"
+    },
+    {
+      "id": "income_bucket::> $50K",
+      "name": "> $50K",
+      "stage_key": "income_bucket",
+      "stage_label": "Income"
+    },
+    {
+      "id": "marital_group::Married / separated",
+      "name": "Married / separated",
+      "stage_key": "marital_group",
+      "stage_label": "Marital status"
+    },
+    {
+      "id": "work_status_group::Part-time",
+      "name": "Part-time",
+      "stage_key": "work_status_group",
+      "stage_label": "Work status"
+    },
+    {
+      "id": "work_status_group::Unemployed",
+      "name": "Unemployed",
+      "stage_key": "work_status_group",
+      "stage_label": "Work status"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 193824897.36
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "value": 191851202.84
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "value": 224645255.46
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "value": 85961267.7
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 142565599.09
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "value": 192139100.32
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "value": 48433021.07
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "value": 35178459.79
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "value": 64003365.44
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "value": 31303916.86
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "value": 45838354.86
+    },
+    {
+      "source": 9,
+      "target": 3,
+      "value": 57875137.5
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "value": 22470011.7
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "value": 15163290.43
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "value": 18997099.47
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "value": 28596500.61
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "value": 14539874.77
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 14309423.0
+    },
+    {
+      "source": 10,
+      "target": 7,
+      "value": 8749289.66
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "value": 12871417.58
+    },
+    {
+      "source": 5,
+      "target": 12,
+      "value": 25797368.77
+    },
+    {
+      "source": 11,
+      "target": 7,
+      "value": 9364296.95
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "value": 8971111.4
+    },
+    {
+      "source": 13,
+      "target": 3,
+      "value": 12883902.49
+    },
+    {
+      "source": 4,
+      "target": 14,
+      "value": 4508290.92
+    },
+    {
+      "source": 14,
+      "target": 5,
+      "value": 8056210.45
+    },
+    {
+      "source": 0,
+      "target": 15,
+      "value": 2679749.35
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "value": 3887565.16
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "value": 2862059.28
+    },
+    {
+      "source": 4,
+      "target": 15,
+      "value": 2881219.61
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "value": 3597296.94
+    },
+    {
+      "source": 15,
+      "target": 5,
+      "value": 3311294.11
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "value": 2194665.55
+    },
+    {
+      "source": 0,
+      "target": 14,
+      "value": 1987052.25
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "value": 3385610.77
+    },
+    {
+      "source": 6,
+      "target": 15,
+      "value": 1681149.46
+    },
+    {
+      "source": 14,
+      "target": 9,
+      "value": 1802435.74
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "value": 1111497.44
+    },
+    {
+      "source": 9,
+      "target": 12,
+      "value": 3701657.71
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "value": 3075623.92
+    },
+    {
+      "source": 11,
+      "target": 14,
+      "value": 1110302.13
+    },
+    {
+      "source": 8,
+      "target": 15,
+      "value": 731759.34
+    },
+    {
+      "source": 15,
+      "target": 9,
+      "value": 1064587.03
+    },
+    {
+      "source": 10,
+      "target": 15,
+      "value": 444292.84
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "value": 529610.61
+    },
+    {
+      "source": 15,
+      "target": 13,
+      "value": 454002.45
+    },
+    {
+      "source": 11,
+      "target": 15,
+      "value": 299278.15
+    },
+    {
+      "source": 13,
+      "target": 12,
+      "value": 668118.91
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "title": "Pathways to $50K",
+  "records": 299285,
+  "weighted_population": 520786165.08,
+  "top_pathways": [
+    {
+      "education_group": "Less than high school",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Never married",
+      "income_bucket": "<= $50K",
+      "weight": 148696971.29
+    },
+    {
+      "education_group": "High school",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 48794577.78
+    },
+    {
+      "education_group": "Less than high school",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 26925194.39
+    },
+    {
+      "education_group": "Some college",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 22727815.68
+    },
+    {
+      "education_group": "High school",
+      "work_status_group": "Full-time",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 19416407.87
+    },
+    {
+      "education_group": "High school",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Never married",
+      "income_bucket": "<= $50K",
+      "weight": 16173197.58
+    },
+    {
+      "education_group": "Bachelor",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 16029351.55
+    },
+    {
+      "education_group": "High school",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Divorced / widowed",
+      "income_bucket": "<= $50K",
+      "weight": 15454404.05
+    },
+    {
+      "education_group": "Some college",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Never married",
+      "income_bucket": "<= $50K",
+      "weight": 14812757.51
+    },
+    {
+      "education_group": "Less than high school",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Divorced / widowed",
+      "income_bucket": "<= $50K",
+      "weight": 14723312.79
+    },
+    {
+      "education_group": "Some college",
+      "work_status_group": "Full-time",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 10631122.23
+    },
+    {
+      "education_group": "Associate",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 8676144.16
+    },
+    {
+      "education_group": "Bachelor",
+      "work_status_group": "Full-time",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 8331092.58
+    },
+    {
+      "education_group": "High school",
+      "work_status_group": "Full-time",
+      "marital_group": "Never married",
+      "income_bucket": "<= $50K",
+      "weight": 7861274.19
+    },
+    {
+      "education_group": "Some college",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Divorced / widowed",
+      "income_bucket": "<= $50K",
+      "weight": 7001899.22
+    },
+    {
+      "education_group": "Some college",
+      "work_status_group": "Full-time",
+      "marital_group": "Never married",
+      "income_bucket": "<= $50K",
+      "weight": 6540837.55
+    },
+    {
+      "education_group": "Graduate / professional",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 6427790.61
+    },
+    {
+      "education_group": "Bachelor",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Never married",
+      "income_bucket": "<= $50K",
+      "weight": 6231316.14
+    },
+    {
+      "education_group": "Less than high school",
+      "work_status_group": "Full-time",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 5998206.04
+    },
+    {
+      "education_group": "Less than high school",
+      "work_status_group": "Full-time",
+      "marital_group": "Never married",
+      "income_bucket": "<= $50K",
+      "weight": 5718672.13
+    },
+    {
+      "education_group": "Associate",
+      "work_status_group": "Full-time",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "<= $50K",
+      "weight": 4905732.92
+    },
+    {
+      "education_group": "High school",
+      "work_status_group": "Full-time",
+      "marital_group": "Divorced / widowed",
+      "income_bucket": "<= $50K",
+      "weight": 4637033.65
+    },
+    {
+      "education_group": "Bachelor",
+      "work_status_group": "Full-time",
+      "marital_group": "Never married",
+      "income_bucket": "<= $50K",
+      "weight": 4358536.52
+    },
+    {
+      "education_group": "Bachelor",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "> $50K",
+      "weight": 4265864.06
+    },
+    {
+      "education_group": "Graduate / professional",
+      "work_status_group": "Not in labor force",
+      "marital_group": "Married, spouse present",
+      "income_bucket": "> $50K",
+      "weight": 3888114.51
+    }
+  ],
+  "bar_by_education": [
+    {
+      "education_group": "Graduate / professional",
+      "weighted_over_50k": 9761311.18,
+      "weighted_under_equal_50k": 15552440.82,
+      "total_weight": 25313752.0,
+      "share_over_50k": 0.3856
+    },
+    {
+      "education_group": "Bachelor",
+      "weighted_over_50k": 10807638.85,
+      "weighted_under_equal_50k": 42419802.37,
+      "total_weight": 53227441.22,
+      "share_over_50k": 0.203
+    },
+    {
+      "education_group": "Associate",
+      "weighted_over_50k": 2139878.92,
+      "weighted_under_equal_50k": 23328491.45,
+      "total_weight": 25468370.37,
+      "share_over_50k": 0.084
+    },
+    {
+      "education_group": "Some college",
+      "weighted_over_50k": 4747267.45,
+      "weighted_under_equal_50k": 70698974.06,
+      "total_weight": 75446241.51,
+      "share_over_50k": 0.0629
+    },
+    {
+      "education_group": "High school",
+      "weighted_over_50k": 4950977.97,
+      "weighted_under_equal_50k": 123578260.05,
+      "total_weight": 128529238.02,
+      "share_over_50k": 0.0385
+    },
+    {
+      "education_group": "Less than high school",
+      "weighted_over_50k": 835694.94,
+      "weighted_under_equal_50k": 211965427.02,
+      "total_weight": 212801121.96,
+      "share_over_50k": 0.0039
+    }
+  ],
+  "bar_by_age": [
+    {
+      "age_band": "45-54",
+      "weighted_over_50k": 10050102.19,
+      "weighted_under_equal_50k": 50052898.97,
+      "total_weight": 60103001.16,
+      "share_over_50k": 0.1672
+    },
+    {
+      "age_band": "35-44",
+      "weighted_over_50k": 10865585.06,
+      "weighted_under_equal_50k": 72796123.98,
+      "total_weight": 83661709.04,
+      "share_over_50k": 0.1299
+    },
+    {
+      "age_band": "55-64",
+      "weighted_over_50k": 4818577.14,
+      "weighted_under_equal_50k": 36569351.27,
+      "total_weight": 41387928.41,
+      "share_over_50k": 0.1164
+    },
+    {
+      "age_band": "25-34",
+      "weighted_over_50k": 4741659.75,
+      "weighted_under_equal_50k": 78420109.14,
+      "total_weight": 83161768.89,
+      "share_over_50k": 0.057
+    },
+    {
+      "age_band": "65+",
+      "weighted_over_50k": 2497252.73,
+      "weighted_under_equal_50k": 59412647.93,
+      "total_weight": 61909900.66,
+      "share_over_50k": 0.0403
+    },
+    {
+      "age_band": "Under 25",
+      "weighted_over_50k": 269592.44,
+      "weighted_under_equal_50k": 190292264.48,
+      "total_weight": 190561856.92,
+      "share_over_50k": 0.0014
+    }
+  ],
+  "bar_by_work_status": [
+    {
+      "work_status_group": "Full-time",
+      "weighted_over_50k": 14501672.38,
+      "weighted_under_equal_50k": 94566908.19,
+      "total_weight": 109068580.57,
+      "share_over_50k": 0.133
+    },
+    {
+      "work_status_group": "Part-time",
+      "weighted_over_50k": 1578735.4,
+      "weighted_under_equal_50k": 12195132.17,
+      "total_weight": 13773867.57,
+      "share_over_50k": 0.1146
+    },
+    {
+      "work_status_group": "Not in labor force",
+      "weighted_over_50k": 16892594.43,
+      "weighted_under_equal_50k": 372333673.76,
+      "total_weight": 389226268.19,
+      "share_over_50k": 0.0434
+    },
+    {
+      "work_status_group": "Unemployed",
+      "weighted_over_50k": 269767.1,
+      "weighted_under_equal_50k": 8447681.65,
+      "total_weight": 8717448.75,
+      "share_over_50k": 0.0309
+    }
+  ],
+  "bar_by_sex": [
+    {
+      "sex_group": "Male",
+      "weighted_over_50k": 26188103.0,
+      "weighted_under_equal_50k": 228272105.1,
+      "total_weight": 254460208.1,
+      "share_over_50k": 0.1029
+    },
+    {
+      "sex_group": "Female",
+      "weighted_over_50k": 7054666.31,
+      "weighted_under_equal_50k": 259271290.67,
+      "total_weight": 266325956.98,
+      "share_over_50k": 0.0265
+    }
+  ]
+}

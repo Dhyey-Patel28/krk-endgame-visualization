@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Pathways to $50K</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <div class="eyebrow">Census-Income (KDD)</div>
+      <h1>Pathways to $50K</h1>
+      <p>
+        A weighted view of how education, work status, and marital status flow into the
+        under-$50K and over-$50K income groups.
+      </p>
+    </header>
+
+    <section class="summary-grid" id="summary-grid"></section>
+
+    <section class="section">
+      <div class="section-header">
+        <h2>Income flow map</h2>
+        <p>
+          Each ribbon is weighted by the represented population, not just the row count.
+          Follow the thickest paths to see where the largest groups end up.
+        </p>
+      </div>
+      <div id="sankey-chart" class="chart-panel"></div>
+      <div id="sankey-caption" class="caption"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <h2>Who crosses the line?</h2>
+        <p>
+          Weighted share of people above $50K by selected grouping.
+        </p>
+      </div>
+      <div class="toolbar" id="bar-controls"></div>
+      <div id="bar-chart" class="chart-panel"></div>
+      <div id="bar-caption" class="caption"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <h2>Top weighted pathways</h2>
+        <p>
+          The strongest individual category combinations in the weighted population.
+        </p>
+      </div>
+      <div id="pathways-chart" class="chart-panel"></div>
+      <div id="pathways-caption" class="caption"></div>
+    </section>
+  </main>
+
+  <div id="tooltip" class="tooltip"></div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
